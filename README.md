@@ -2,3 +2,4 @@
 ## MySQL scrips for assignmentes
 ### MASC_SQL_WK1   MySQL scrips for assignments of week 1
 ### WASC_SQL_WK2   MySQL scripts for assignments of week 2
+### MASC_SQL-WK3   mySQL scripts for assignments of week 3
